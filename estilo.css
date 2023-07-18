@@ -1,0 +1,38 @@
+body{
+
+    background: rgb(98, 98, 238);
+    font:normal 15pt arial ;
+}
+
+header{
+color: white;
+text-align: center;
+}
+
+section{
+background: white;
+border-radius: 15px;
+padding: 20px;
+width: 300px;
+margin: auto;
+box-shadow: 5px 5px 10px black;
+
+}
+
+footer{
+text-align: center;
+color: white;
+font-style: italic;
+
+
+}
+div#tabuadaa{
+text-align: center;
+
+
+}
+div#errinho{
+text-align: center;
+color: red;
+
+}
